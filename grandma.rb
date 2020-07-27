@@ -5,8 +5,10 @@ def speak_to_grandma
 
 if speak_to_grandma == 
 
-puts "HUH?! SPEAK UP, SONNY!"
 
+else
+puts "HUH?! SPEAK UP, SONNY!"
+end
 
 puts "NO, NOT SINCE 1938!"
 
