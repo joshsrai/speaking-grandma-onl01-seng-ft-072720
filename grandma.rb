@@ -3,17 +3,16 @@
 def speak_to_grandma
   speak_to_grandma = get.chomp
 
-if speak_to_grandma == 
-
+if speak_to_grandma == "How are you doing?".upcase
+  puts "NO, NOT SINCE 1938!"
+elsif speak_to_grandma == "I LOVE YOU GRANDMA".upcase
+  puts "I LOVE YOU TOO PUMPKIN!"
 
 else
 puts "HUH?! SPEAK UP, SONNY!"
 end
 
-puts "NO, NOT SINCE 1938!"
 
-
-puts "I LOVE YOU TOO PUMPKIN!"
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
