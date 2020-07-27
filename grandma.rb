@@ -1,7 +1,9 @@
 # Write a speak_to_grandma method.
 
 def speak_to_grandma
+  speak_to_grandma = get.chomp
 
+if speak_to_grandma == 
 
 puts "HUH?! SPEAK UP, SONNY!"
 
